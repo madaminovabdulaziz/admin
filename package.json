@@ -25,4 +25,7 @@
     "not dead",
     "not ie 11"
   ]
+  "scripts": {
+    "start": "node index.js"
+  }
 }
